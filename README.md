@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShreyashTwari
-- 👀 I’m interested in ...Tech,Finance and Chess
-- 🌱 I’m currently learning ...C++ and Web dev
+- 👀 I’m interested in ...Tech, BFSI and Chess
+- 🌱 I’m currently learning ...C++ and Data Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...shreyashtiwari3330@gmail.com
 
